@@ -1,5 +1,5 @@
 # Submission-bookshelf_js-dicoding
-Submission Kelas Belajar Membuat Front-End Web untuk Pemula on Dicoding
+Submission Kelas Belajar Membuat Front-End Web untuk Pemula Dicoding
 
 Hallo All,<br>
 Ini Submission Kelas <b>"Belajar Membuat Front-End Web untuk Pemula"</b> Dicoding<br>
